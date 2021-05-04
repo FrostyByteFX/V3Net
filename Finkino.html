@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
+    <script src="finnkino-theaters.js"></script>
+    <script src="Events.js"></script>
+    <script src="Poster.js"></script>
+
+    <title> Ajax </title>
+</head>
+<body>
+    <div id="background">
+    <!--<div id="replacewithposter"></div> Tähän tägiin aikaisemmin pystyi lataamaan posterin, yritin lähettää omdbapi sivustolle pyyntöjä postereista Finnkinon antamien elokuva nimien 
+    mukaan. Jotkut leffat löytyivät, mutta eivät kaikki. En ehtinyt keksiä miten parantaisin tätä toiminnallisuutta. Mutta sain onnistuneesti haettua postereita API keyn avulla. js tiedosto
+    on Poster.js -->
+    <div id="Htitle">
+    <h1 id="Otsikko">FINNKINO ELOKUVAHAKU</h1>
+</div>
+    <div id="dropbox-div">
+        <div id="container-dropdown">
+    <form>
+        <select name="theaters" id="theater" class="menu">
+            </select>
+        <select name="listType" id="typeid" class="menu">
+            <option id="g1" value="NowInTheatres">Teattereissa</option>
+            <option id="g2" value="ComingSoon">Tulossa</option>
+        </select>
+     <input type="submit" class="menu" value="Lähetä">
+    </form>
+    </div></div>
+    
+    <div1 id="events-divc"></div1>
+</div>
+</body>
+</html>

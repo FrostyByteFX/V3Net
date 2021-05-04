@@ -1,0 +1,176 @@
+body {
+    background-color: #121212;
+
+}
+#dropbox-div {
+    float: left;
+    width: 800px;
+    height: auto;
+    margin-left: 30%;
+
+}
+#container-dropdown {
+    width: 450px;
+    height: 50px;
+    float: left;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.menu {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+
+}
+#events-divc {
+    float: left;
+    width: 800px;
+    height: auto;
+    margin-left: 30%;
+
+}
+#Htitle {
+    float: left;
+    width: 800px;
+    height: auto;
+    margin-left: 30%;
+
+}
+
+#Otsikko {
+    text-align: center;
+    font-size: 32px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 80px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+    float: left;
+
+}
+.dropbox-div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+    margin-top: 6px;
+    margin-right: 40px;
+    float: left;
+
+}
+.Bg-style {
+	float: left;
+    background-color: #212121;
+	width: 700px;
+	height: 300px;
+    color: #FFFFFF;
+	margin: 5px;
+
+}
+.teksti {
+    font-size: 24px;
+    text-align: left;
+    color: #FFFFFF;
+    margin: 2px;
+
+}
+.ID-style {
+    font-size: 16px;
+	background-color: #1F1B24;
+	text-align: center;
+    margin: 2px;
+    display: none;
+
+}
+.Title-style {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-decoration: underline;
+}
+
+.img-style {
+    height: auto; 
+    width: auto; 
+    
+}
+
+.divr-style {
+    float: left;
+    width: 500px;
+    height: 150px;
+
+
+}
+
+.divl-style {
+    float: left;
+    width: 110px;
+    height: 150px;
+    margin-left: 20px;
+
+
+}
+.downr-style {
+    float: right;
+    width: 300px;
+    height: 100px;
+
+
+}
+.downl-style {
+    float: left;
+    width: 150px;
+    margin-left: 20px;
+
+}
+.date-div {
+    font-size: 12px;
+	color: #FFFFFF;
+    margin: 2px;
+
+}
+
+.p-style {
+	font-size: 14px;
+	color: #FFFFFF;
+	text-align: left;
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: inline;
+
+}
+.year-style {
+    font-size: 12px;
+	color: #FFFFFF;
+    margin: 2px;
+
+}
+.genre-style {
+    font-size: 12px;
+	color: #FFFFFF;
+    margin: 2px;
+
+}
+.date-style {
+    font-size: 16px;
+	color: #FFFFFF;
+    margin: 2px;
+
+}
+.movielength-style {
+    font-size: 24px;
+	color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 70px;
+
+}
+.video-style {
+    width:420; 
+    height:345;
+    margin: 2px;
+
+}
